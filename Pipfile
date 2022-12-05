@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+debricked-test = "6.0"
+requests = "~=2.25.0"
+cryptography = "~=2.0"
+hello = "*"
+wow = "*"
+mysql = ">3.0"
+
+[dev-packages]
+pytest = "*"
+
+[[source]]
+url = "https://pypi.python.org/simpleaaaaaaaa"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "https://pypi.python.org/simpleaaaaaaaa"
+verify_ssl = true
+name = "pypi"
